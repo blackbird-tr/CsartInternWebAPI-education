@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CleanArchitecture.UnitTests
+build_property.ProjectDir = C:\Users\Evren\OneDrive - Akdeniz Üniversitesi\Masaüstü\gj\CSE332_23B_Term_Project\Backend\Tests\CleanArchitecture.UnitTests\
